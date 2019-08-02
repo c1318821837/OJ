@@ -1,0 +1,5 @@
+﻿  UVa1586.cpp
+d:\vs2017工程项目文件夹\uva1586\uva1586\uva1586.cpp(10): warning C4305: “初始化”: 从“double”到“float”截断
+d:\vs2017工程项目文件夹\uva1586\uva1586\uva1586.cpp(11): warning C4305: “初始化”: 从“double”到“float”截断
+d:\vs2017工程项目文件夹\uva1586\uva1586\uva1586.cpp(13): warning C4305: “初始化”: 从“double”到“float”截断
+  UVa1586.vcxproj -> D:\VS2017工程项目文件夹\UVa1586\Debug\UVa1586.exe
